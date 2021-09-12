@@ -1,5 +1,5 @@
 # subdomain-scanner
-a fast, multithreaded subdomain scanner
+a fast, multithreaded subdomain scanner. I am not responsible for anything done with this script!
 
 # How to start?
 1. open a terminal in the folder

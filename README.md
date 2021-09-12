@@ -9,9 +9,16 @@ a fast, multithreaded subdomain scanner. I am not responsible for anything done 
 5. BOOM! HERE WE GO!
 
 # Demonstration
+
+of `domainscan.py`
+
 ![image](https://user-images.githubusercontent.com/36286877/132982236-2fd0e3e6-9878-4811-9b31-8c78f8f30f79.png)
 
-# Where to donwload subdomain lists
+of `domainscan_colored.py`
+
+![image](https://user-images.githubusercontent.com/36286877/132982855-25faa713-bda7-4568-80e5-e9581b1cbd1b.png)
+
+# Where to donwload more subdomain lists
 33 Million subdomain wordlist: https://mega.nz/file/UsJXzITR#TMIFTXnW1zABHfZUIKMPMvA-c8UvzGWeAd4mg4gGCtQ
 
 15 Million subdomain wordlist: https://mega.nz/file/BtIh2KaZ#zI1aZgAdHYdBfvKC5G8bwXwfFG11Gx0CW1zLhc0weC8
